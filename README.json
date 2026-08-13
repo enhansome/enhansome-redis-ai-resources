@@ -1,0 +1,102 @@
+{
+  "items": [
+    {
+      "description": "No faster way to get started than by diving in and playing around with a demo.",
+      "items": [],
+      "title": "Demos"
+    },
+    {
+      "description": "Need quickstarts to begin your Redis AI journey?",
+      "items": [],
+      "title": "Recipes"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Getting started with Redis & Vector Search"
+    },
+    {
+      "description": "Retrieval Augmented Generation (aka RAG) is a technique to enhance the ability of an LLM to respond to user queries. The retrieval part of RAG is supported by a vector database, which can return semantically relevant results to a user's query, serving as contextual information to augment the generative capabilities of an LLM.\nTo get started with RAG, either from scratch or using a popular framework like Llamaindex or LangChain, go with these recipes:",
+      "items": [],
+      "title": "Retrieval Augmented Generation (RAG)"
+    },
+    {
+      "description": "LLMs are stateless. To maintain context within a conversation chat sessions must be stored and re-sent to the LLM. Redis manages the storage and retrieval of message histories to maintain context and conversational relevance.",
+      "items": [],
+      "title": "LLM Memory"
+    },
+    {
+      "description": "An estimated 31% of LLM queries are potentially redundant (source). Redis enables semantic caching to help cut down on LLM costs quickly.",
+      "items": [],
+      "title": "Semantic Caching"
+    },
+    {
+      "description": "Routing is a simple and effective way of preventing misuse with your AI application or for creating branching logic between data sources etc.",
+      "items": [],
+      "title": "Semantic Routing"
+    },
+    {
+      "description": "AI gateways manage LLM traffic through a centralized, managed layer that can implement routing, rate limiting, caching, and more.",
+      "items": [],
+      "title": "AI Gateways"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Agents"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Computer Vision"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Recommendation Systems"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Fraud Detection"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Feature Store"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Model Context Protocol (MCP)"
+    },
+    {
+      "description": "A set of Java recipes can be found under /java-recipes.",
+      "items": [],
+      "title": "☕️ Java AI Recipes"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Notebooks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Applications"
+    },
+    {
+      "description": "Need a deeper-dive through different use cases and topics?",
+      "items": [],
+      "title": "Tutorials"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:15:52.665Z",
+    "original_repository": "redis-developer/redis-ai-resources",
+    "original_repository_sha": "cd794ba0c45ff206578dd418ae928f8c52097cfb",
+    "enhanced_repository": "enhansome/enhansome-redis-ai-resources",
+    "enhanced_repository_description": null,
+    "title": "Awesome Other Helpful Resources with stars"
+  }
+}
