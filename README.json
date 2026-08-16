@@ -92,9 +92,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T03:55:49.723Z",
+    "last_updated": "2026-08-16T04:01:05.217Z",
     "original_repository": "redis-developer/redis-ai-resources",
-    "original_repository_sha": "cd794ba0c45ff206578dd418ae928f8c52097cfb",
+    "original_repository_sha": "57c64b54035fd19649d6847168e885169fa5fa10",
     "enhanced_repository": "enhansome/enhansome-redis-ai-resources",
     "enhanced_repository_description": null,
     "title": "Awesome Other Helpful Resources with stars"
