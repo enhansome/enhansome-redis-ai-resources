@@ -228,7 +228,7 @@
             "archived": false,
             "id": 561914940,
             "language": "Python",
-            "last_commit": "2026-08-24T14:20:58Z",
+            "last_commit": "2026-08-24T15:42:29Z",
             "owner": "redis",
             "repo": "redis-vl-python",
             "stars": 425
@@ -243,10 +243,10 @@
             "archived": false,
             "id": 552661142,
             "language": "Python",
-            "last_commit": "2026-08-24T13:18:11Z",
+            "last_commit": "2026-08-25T03:51:56Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 144894
+            "stars": 144929
           }
         },
         {
@@ -258,10 +258,10 @@
             "archived": false,
             "id": 598342280,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T16:41:35Z",
+            "last_commit": "2026-08-24T21:58:41Z",
             "owner": "langchain-ai",
             "repo": "langchainjs",
-            "stars": 18132
+            "stars": 18134
           }
         },
         {
@@ -276,7 +276,7 @@
             "last_commit": "2026-08-21T02:44:34Z",
             "owner": "microsoft",
             "repo": "semantic-kernel",
-            "stars": 28489
+            "stars": 28492
           }
         }
       ],
@@ -284,7 +284,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:26:05.753Z",
+    "last_updated": "2026-08-25T04:01:19.457Z",
     "original_repository": "redis-developer/redis-ai-resources",
     "original_repository_id": 596607771,
     "original_repository_sha": "57c64b54035fd19649d6847168e885169fa5fa10",
