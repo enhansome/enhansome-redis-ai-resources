@@ -246,7 +246,7 @@
             "last_commit": "2026-08-25T03:51:56Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 144929
+            "stars": 144932
           }
         },
         {
@@ -261,7 +261,7 @@
             "last_commit": "2026-08-24T21:58:41Z",
             "owner": "langchain-ai",
             "repo": "langchainjs",
-            "stars": 18134
+            "stars": 18133
           }
         },
         {
@@ -276,7 +276,7 @@
             "last_commit": "2026-08-21T02:44:34Z",
             "owner": "microsoft",
             "repo": "semantic-kernel",
-            "stars": 28492
+            "stars": 28493
           }
         }
       ],
@@ -284,7 +284,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T04:01:19.457Z",
+    "last_updated": "2026-08-25T06:17:44.966Z",
     "original_repository": "redis-developer/redis-ai-resources",
     "original_repository_id": 596607771,
     "original_repository_sha": "57c64b54035fd19649d6847168e885169fa5fa10",
