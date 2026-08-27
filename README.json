@@ -243,10 +243,10 @@
             "archived": false,
             "id": 552661142,
             "language": "Python",
-            "last_commit": "2026-08-27T11:26:43Z",
+            "last_commit": "2026-08-27T14:04:50Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 145114
+            "stars": 145123
           }
         },
         {
@@ -258,7 +258,7 @@
             "archived": false,
             "id": 598342280,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T07:39:08Z",
+            "last_commit": "2026-08-27T13:23:13Z",
             "owner": "langchain-ai",
             "repo": "langchainjs",
             "stars": 18138
@@ -273,7 +273,7 @@
             "archived": false,
             "id": 607289185,
             "language": "C#",
-            "last_commit": "2026-08-26T16:41:58Z",
+            "last_commit": "2026-08-27T14:09:40Z",
             "owner": "microsoft",
             "repo": "semantic-kernel",
             "stars": 28504
@@ -284,7 +284,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:03:57.798Z",
+    "last_updated": "2026-08-27T14:14:28.996Z",
     "original_repository_info": {
       "archived": false,
       "id": 596607771,
