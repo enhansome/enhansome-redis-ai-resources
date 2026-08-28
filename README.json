@@ -16,7 +16,8 @@
             "owner": "redis-developer",
             "repo": "redis-rag-workbench",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T15:25:04.630Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "antonum",
             "repo": "Redis-VSS-Streamlit",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T15:25:04.630Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "redis-developer",
             "repo": "redis-arXiv-search",
             "stars": 154
-          }
+          },
+          "first_seen": "2026-08-28T15:25:04.630Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "redis-developer",
             "repo": "redis-product-search",
             "stars": 176
-          }
+          },
+          "first_seen": "2026-08-28T15:25:04.630Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "redis-developer",
             "repo": "ArXivChatGuru",
             "stars": 561
-          }
+          },
+          "first_seen": "2026-08-28T15:25:04.630Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "redis-developer",
             "repo": "redis-movies-searcher",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T15:25:04.630Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "redis-developer",
             "repo": "context-engine-with-alexa-demo",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T15:25:04.630Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "redis-developer",
             "repo": "postgres-to-redis-rdi-demo",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T15:25:04.630Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "redis-developer",
             "repo": "banking-agent-semantic-routing-demo",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T15:25:04.630Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "redis-developer",
             "repo": "shopping-ai-agent-langgraph-js-demo",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T15:25:04.630Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "redis-developer",
             "repo": "restaurant-discovery-ai-agent-demo",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T15:25:04.630Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "redis-developer",
             "repo": "podcast-chatbot-with-agent-memory-azure-demo",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T15:25:04.630Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "redis-developer",
             "repo": "dealership-chatbot-agent-memory-demo",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T15:25:04.630Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "redis-developer",
             "repo": "multi-agent-ai-text-adventure-game-with-agent-memory-langgraph-js-azure",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T15:25:04.630Z"
         }
       ],
       "title": "Demos"
@@ -228,11 +242,12 @@
             "archived": false,
             "id": 561914940,
             "language": "Python",
-            "last_commit": "2026-08-25T14:01:57Z",
+            "last_commit": "2026-08-28T08:47:51Z",
             "owner": "redis",
             "repo": "redis-vl-python",
             "stars": 424
-          }
+          },
+          "first_seen": "2026-08-28T15:25:04.630Z"
         },
         {
           "node_type": "item",
@@ -243,11 +258,12 @@
             "archived": false,
             "id": 552661142,
             "language": "Python",
-            "last_commit": "2026-08-27T14:04:50Z",
+            "last_commit": "2026-08-28T11:55:00Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 145123
-          }
+            "stars": 145187
+          },
+          "first_seen": "2026-08-28T15:25:04.630Z"
         },
         {
           "node_type": "item",
@@ -261,8 +277,9 @@
             "last_commit": "2026-08-27T13:23:13Z",
             "owner": "langchain-ai",
             "repo": "langchainjs",
-            "stars": 18138
-          }
+            "stars": 18141
+          },
+          "first_seen": "2026-08-28T15:25:04.630Z"
         },
         {
           "node_type": "item",
@@ -273,18 +290,19 @@
             "archived": false,
             "id": 607289185,
             "language": "C#",
-            "last_commit": "2026-08-27T14:09:40Z",
+            "last_commit": "2026-08-27T16:58:48Z",
             "owner": "microsoft",
             "repo": "semantic-kernel",
-            "stars": 28504
-          }
+            "stars": 28509
+          },
+          "first_seen": "2026-08-28T15:25:04.630Z"
         }
       ],
       "title": "Integrations"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T14:14:28.996Z",
+    "last_updated": "2026-08-28T15:25:04.630Z",
     "original_repository_info": {
       "archived": false,
       "id": 596607771,
