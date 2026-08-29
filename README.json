@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Interactive RAG workbench to demonstrate Redis features and enhancements for improving accuracy, speed, cost, and reliability of LLM applications.",
+            "homepage": null,
             "id": 817968287,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-10-06T13:25:34Z",
+            "open_issues": 5,
             "owner": "redis-developer",
             "repo": "redis-rag-workbench",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:25:04.630Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Redis Vector Similarity Search",
+            "homepage": null,
             "id": 505490134,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2023-06-21T19:45:16Z",
+            "open_issues": 0,
             "owner": "antonum",
             "repo": "Redis-VSS-Streamlit",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:25:04.630Z"
         },
@@ -42,12 +52,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vector search demo with the arXiv paper dataset, RedisVL, HuggingFace, OpenAI, Cohere, FastAPI, React, and Redis.",
+            "homepage": "https://docsearch.redisvl.com",
             "id": 530374092,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-04-15T20:10:55Z",
+            "open_issues": 8,
             "owner": "redis-developer",
             "repo": "redis-arXiv-search",
-            "stars": 154
+            "stars": 154,
+            "topics": [
+              "arxiv",
+              "arxiv-papers",
+              "cohere",
+              "document-retrieval",
+              "document-search",
+              "huggingface",
+              "machine-learning",
+              "nlp",
+              "openai",
+              "react",
+              "redis",
+              "vector-database",
+              "vector-search"
+            ]
           },
           "first_seen": "2026-08-28T15:25:04.630Z"
         },
@@ -58,12 +87,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Visual and semantic vector similarity with Redis Stack, FastAPI, PyTorch and Huggingface.",
+            "homepage": "https://ecommerce.redisvl.com",
             "id": 502840954,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-02-25T20:53:24Z",
+            "open_issues": 7,
             "owner": "redis-developer",
             "repo": "redis-product-search",
-            "stars": 176
+            "stars": 176,
+            "topics": [
+              "docker",
+              "fastapi",
+              "machine-learning",
+              "react",
+              "redis",
+              "redis-stack",
+              "redissearch",
+              "single-page-application",
+              "vector-database",
+              "vector-search"
+            ]
           },
           "first_seen": "2026-08-28T15:25:04.630Z"
         },
@@ -74,12 +119,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use ArXiv ChatGuru to talk to research papers. This app uses LangChain, OpenAI, Streamlit, and Redis as a vector database/semantic cache.",
+            "homepage": null,
             "id": 600223950,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-18T19:05:20Z",
+            "open_issues": 7,
             "owner": "redis-developer",
             "repo": "ArXivChatGuru",
-            "stars": 561
+            "stars": 561,
+            "topics": [
+              "ai",
+              "arxiv",
+              "langchain",
+              "machine-learning",
+              "openai",
+              "python",
+              "question-answering",
+              "rag",
+              "redis",
+              "retrieval",
+              "retrieval-augmented-generation",
+              "streamlit",
+              "vector-database",
+              "vector-search"
+            ]
           },
           "first_seen": "2026-08-28T15:25:04.630Z"
         },
@@ -90,12 +155,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sample application written in Java (JDK 21, Spring Boot, Redis OM Spring) that implements a hybrid search strategy (Full-Text Search and Vector Similarity Search) to allows for movies search.",
+            "homepage": "https://redis.io/open-source/",
             "id": 984933754,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-02-17T17:38:17Z",
+            "open_issues": 0,
             "owner": "redis-developer",
             "repo": "redis-movies-searcher",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "cache-aside",
+              "docker",
+              "full-text-search",
+              "java",
+              "redis",
+              "riot",
+              "vector-database",
+              "vector-similarity-search"
+            ]
           },
           "first_seen": "2026-08-28T15:25:04.630Z"
         },
@@ -106,12 +185,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Demo showing how to implement a context engine layer with Alexa using Redis Iris services to create human-like and contextual conversation experiences.",
+            "homepage": "https://redis.io/iris/",
             "id": 1062918510,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-06-01T16:07:53Z",
+            "open_issues": 0,
             "owner": "redis-developer",
             "repo": "context-engine-with-alexa-demo",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "amazon-alexa-skill",
+              "java",
+              "redis-agent-memory",
+              "redis-cloud",
+              "redis-iris",
+              "redis-langcache",
+              "terraform"
+            ]
           },
           "first_seen": "2026-08-28T15:25:04.630Z"
         },
@@ -122,12 +214,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Demo showing how Redis Data Integration (RDI) can continuously synchronize data from PostgreSQL to Redis using Change Data Capture (CDC).",
+            "homepage": "https://redis.io/data-integration",
             "id": 1047040607,
             "language": "PLpgSQL",
+            "license": "MIT",
             "last_commit": "2025-12-17T14:14:42Z",
+            "open_issues": 0,
             "owner": "redis-developer",
             "repo": "postgres-to-redis-rdi-demo",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "allowdb",
+              "aurora",
+              "mariadb",
+              "mongodb",
+              "oracle",
+              "postgresql",
+              "rdi",
+              "redis",
+              "redis-data-integration",
+              "spanner",
+              "sql-database"
+            ]
           },
           "first_seen": "2026-08-28T15:25:04.630Z"
         },
@@ -138,12 +247,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A banking chatbot with semantic routing and slot-filling orchestration. Built with FastAPI, LangGraph, RedisVL Semantic Router, LangChain tools, and Next.js frontend.",
+            "homepage": null,
             "id": 1091519846,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-12-17T10:57:42Z",
+            "open_issues": 0,
             "owner": "redis-developer",
             "repo": "banking-agent-semantic-routing-demo",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:25:04.630Z"
         },
@@ -154,12 +268,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shopping AI assistant with recipe tools, product search, and semantic caching for grocery e-commerce.",
+            "homepage": "https://tryredish.vercel.app/",
             "id": 1050165983,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-01-18T10:36:28Z",
+            "open_issues": 1,
             "owner": "redis-developer",
             "repo": "shopping-ai-agent-langgraph-js-demo",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "langchain",
+              "langgraph",
+              "langgraph-js",
+              "openai",
+              "redis",
+              "retrieval-augmented-generation"
+            ]
           },
           "first_seen": "2026-08-28T15:25:04.630Z"
         },
@@ -170,12 +296,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Agentic AI restaurant discovery platform that combines Redis's speed with LangGraph's intelligent workflow orchestration. Get personalized restaurant recommendations, make reservations, and get lightning-fast responses through semantic caching.",
+            "homepage": "https://restaurant-discovery-ai.vercel.app",
             "id": 1110133296,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-01-28T01:00:41Z",
+            "open_issues": 0,
             "owner": "redis-developer",
             "repo": "restaurant-discovery-ai-agent-demo",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "agentic-ai",
+              "ai-agents",
+              "langgraph",
+              "openai-api",
+              "redis"
+            ]
           },
           "first_seen": "2026-08-28T15:25:04.630Z"
         },
@@ -186,12 +323,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Demo showing how to use Redis Agent Memory Server to build context-aware AI chatbots with persistent conversation memory on Azure.",
+            "homepage": null,
             "id": 1080106542,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-01-02T22:21:27Z",
+            "open_issues": 0,
             "owner": "redis-developer",
             "repo": "podcast-chatbot-with-agent-memory-azure-demo",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:25:04.630Z"
         },
@@ -202,12 +344,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Car Dealership Agent with Redis Agent Memory Server, showcasing short-term and long-term memory",
+            "homepage": null,
             "id": 1097989180,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-09T09:31:19Z",
+            "open_issues": 0,
             "owner": "redis-developer",
             "repo": "dealership-chatbot-agent-memory-demo",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:25:04.630Z"
         },
@@ -218,12 +365,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1098570702,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-10T00:49:53Z",
+            "open_issues": 0,
             "owner": "redis-developer",
             "repo": "multi-agent-ai-text-adventure-game-with-agent-memory-langgraph-js-azure",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:25:04.630Z"
         }
@@ -240,12 +392,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Redis Vector Library (RedisVL) -- the AI-native Python client for Redis.",
+            "homepage": "https://docs.redisvl.com",
             "id": 561914940,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T08:47:51Z",
+            "open_issues": 54,
             "owner": "redis",
             "repo": "redis-vl-python",
-            "stars": 424
+            "stars": 424,
+            "topics": [
+              "anthropic",
+              "embedding",
+              "huggingface",
+              "large-language-models",
+              "llm",
+              "llmcache",
+              "mcp",
+              "openai",
+              "python",
+              "redis",
+              "redis-search",
+              "retrieval-augmented-generation",
+              "search",
+              "semantic-cache",
+              "vector-database",
+              "vector-search"
+            ]
           },
           "first_seen": "2026-08-28T15:25:04.630Z"
         },
@@ -256,12 +430,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The agent engineering platform.",
+            "homepage": "https://docs.langchain.com/langchain/",
             "id": 552661142,
             "language": "Python",
-            "last_commit": "2026-08-28T11:55:00Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T23:20:17Z",
+            "open_issues": 431,
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 145187
+            "stars": 145216,
+            "topics": [
+              "agents",
+              "ai",
+              "ai-agents",
+              "anthropic",
+              "chatgpt",
+              "deepagents",
+              "enterprise",
+              "framework",
+              "gemini",
+              "generative-ai",
+              "langchain",
+              "langgraph",
+              "llm",
+              "multiagent",
+              "open-source",
+              "openai",
+              "pydantic",
+              "python",
+              "rag",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T15:25:04.630Z"
         },
@@ -272,12 +472,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The agent engineering platform",
+            "homepage": "https://docs.langchain.com/langchain/",
             "id": 598342280,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T13:23:13Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T21:24:58Z",
+            "open_issues": 544,
             "owner": "langchain-ai",
             "repo": "langchainjs",
-            "stars": 18141
+            "stars": 18143,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:25:04.630Z"
         },
@@ -288,12 +493,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Integrate cutting-edge LLM technology quickly and easily into your apps",
+            "homepage": "https://aka.ms/semantic-kernel",
             "id": 607289185,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-27T16:58:48Z",
+            "open_issues": 263,
             "owner": "microsoft",
             "repo": "semantic-kernel",
-            "stars": 28509
+            "stars": 28511,
+            "topics": [
+              "ai",
+              "artificial-intelligence",
+              "llm",
+              "openai",
+              "sdk"
+            ]
           },
           "first_seen": "2026-08-28T15:25:04.630Z"
         }
@@ -302,15 +518,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T15:25:04.630Z",
+    "last_updated": "2026-08-29T04:46:16.627Z",
     "original_repository_info": {
       "archived": false,
+      "description": "✨ A curated list of awesome community resources, integrations, and examples of Redis in the AI ecosystem.",
+      "homepage": null,
       "id": 596607771,
       "language": "Jupyter Notebook",
+      "license": "MIT",
       "last_commit": "2026-08-15T16:11:30Z",
+      "open_issues": 14,
       "owner": "redis-developer",
       "repo": "redis-ai-resources",
-      "stars": 490
+      "stars": 490,
+      "topics": [
+        "ai",
+        "awesome-list",
+        "ecosystem",
+        "feature-store",
+        "machine-learning",
+        "redis",
+        "vector-database",
+        "vector-search"
+      ]
     },
     "original_repository_sha": "57c64b54035fd19649d6847168e885169fa5fa10",
     "enhanced_repository": "enhansome/enhansome-redis-ai-resources",
