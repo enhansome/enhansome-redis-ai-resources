@@ -398,7 +398,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-28T08:47:51Z",
-            "open_issues": 55,
+            "open_issues": 56,
             "owner": "redis",
             "repo": "redis-vl-python",
             "stars": 424,
@@ -435,11 +435,11 @@
             "id": 552661142,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-29T08:14:11Z",
-            "open_issues": 432,
+            "last_commit": "2026-08-30T08:14:57Z",
+            "open_issues": 429,
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 145229,
+            "stars": 145267,
             "topics": [
               "agents",
               "ai",
@@ -481,7 +481,7 @@
             "open_issues": 544,
             "owner": "langchain-ai",
             "repo": "langchainjs",
-            "stars": 18142,
+            "stars": 18144,
             "topics": []
           },
           "first_seen": "2026-08-28T15:25:04.630Z"
@@ -502,7 +502,7 @@
             "open_issues": 264,
             "owner": "microsoft",
             "repo": "semantic-kernel",
-            "stars": 28513,
+            "stars": 28520,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -518,7 +518,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T10:07:32.109Z",
+    "last_updated": "2026-08-30T09:16:09.966Z",
     "original_repository_info": {
       "archived": false,
       "description": "✨ A curated list of awesome community resources, integrations, and examples of Redis in the AI ecosystem.",
@@ -530,7 +530,7 @@
       "open_issues": 14,
       "owner": "redis-developer",
       "repo": "redis-ai-resources",
-      "stars": 490,
+      "stars": 491,
       "topics": [
         "ai",
         "awesome-list",
