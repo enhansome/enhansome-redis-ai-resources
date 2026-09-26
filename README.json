@@ -435,11 +435,11 @@
             "id": 552661142,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-25T08:30:22Z",
-            "open_issues": 572,
+            "last_commit": "2026-09-26T08:16:20Z",
+            "open_issues": 566,
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 147025,
+            "stars": 147078,
             "topics": [
               "agents",
               "ai",
@@ -477,11 +477,11 @@
             "id": 598342280,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-25T01:46:03Z",
-            "open_issues": 583,
+            "last_commit": "2026-09-25T21:14:08Z",
+            "open_issues": 585,
             "owner": "langchain-ai",
             "repo": "langchainjs",
-            "stars": 18226,
+            "stars": 18228,
             "topics": []
           },
           "first_seen": "2026-08-28T15:25:04.630Z"
@@ -499,10 +499,10 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-09-19T01:54:57Z",
-            "open_issues": 325,
+            "open_issues": 332,
             "owner": "microsoft",
             "repo": "semantic-kernel",
-            "stars": 28600,
+            "stars": 28606,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -518,7 +518,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T08:51:31.510Z",
+    "last_updated": "2026-09-26T08:37:40.016Z",
     "original_repository_info": {
       "archived": false,
       "description": "✨ A curated list of awesome community resources, integrations, and examples of Redis in the AI ecosystem.",
@@ -526,11 +526,11 @@
       "id": 596607771,
       "language": "Jupyter Notebook",
       "license": "MIT",
-      "last_commit": "2026-08-15T16:11:30Z",
-      "open_issues": 15,
+      "last_commit": "2026-09-25T21:21:51Z",
+      "open_issues": 16,
       "owner": "redis-developer",
       "repo": "redis-ai-resources",
-      "stars": 491,
+      "stars": 492,
       "topics": [
         "ai",
         "awesome-list",
