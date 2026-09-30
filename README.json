@@ -435,11 +435,11 @@
             "id": 552661142,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-29T08:33:48Z",
-            "open_issues": 585,
+            "last_commit": "2026-09-30T08:33:03Z",
+            "open_issues": 590,
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 147239,
+            "stars": 147304,
             "topics": [
               "agents",
               "ai",
@@ -477,11 +477,11 @@
             "id": 598342280,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-29T07:01:22Z",
-            "open_issues": 607,
+            "last_commit": "2026-09-30T03:47:44Z",
+            "open_issues": 610,
             "owner": "langchain-ai",
             "repo": "langchainjs",
-            "stars": 18238,
+            "stars": 18241,
             "topics": []
           },
           "first_seen": "2026-08-28T15:25:04.630Z"
@@ -498,11 +498,11 @@
             "id": 607289185,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-28T22:27:20Z",
-            "open_issues": 315,
+            "last_commit": "2026-09-30T09:44:33Z",
+            "open_issues": 317,
             "owner": "microsoft",
             "repo": "semantic-kernel",
-            "stars": 28610,
+            "stars": 28614,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -518,7 +518,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T09:52:09.344Z",
+    "last_updated": "2026-09-30T09:44:39.378Z",
     "original_repository_info": {
       "archived": false,
       "description": "✨ A curated list of awesome community resources, integrations, and examples of Redis in the AI ecosystem.",
@@ -527,7 +527,7 @@
       "language": "Jupyter Notebook",
       "license": "MIT",
       "last_commit": "2026-09-28T12:07:40Z",
-      "open_issues": 15,
+      "open_issues": 16,
       "owner": "redis-developer",
       "repo": "redis-ai-resources",
       "stars": 493,
