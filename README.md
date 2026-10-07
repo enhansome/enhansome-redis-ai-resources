@@ -185,6 +185,12 @@ AI gateways manage LLM traffic through a centralized, managed layer that can imp
 | 🤖 **RedisVL MCP (Google ADK)** - Build an agent with Google ADK, paired with tools from RedisVL MCP Server.             | [![Open In GitHub](https://img.shields.io/badge/View-GitHub-green)](python-recipes/MCP/00_google_adk_redisvl_mcp_agent.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/redis-developer/redis-ai-resources/blob/main/python-recipes/MCP/00_google_adk_redisvl_mcp_agent.ipynb) |
 | ✴️ **RedisVL MCP (Claude Agent SDK)** - Build an agent with Claude Agent SDK, paired with tools from RedisVL MCP Server. | [![Open In GitHub](https://img.shields.io/badge/View-GitHub-green)](python-recipes/MCP/01_claude_agent_sdk_redisvl_mcp.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/redis-developer/redis-ai-resources/blob/main/python-recipes/MCP/01_claude_agent_sdk_redisvl_mcp.ipynb) |
 
+### Redis Agent Memory (RAM)
+
+| Recipe                                                                                                 | GitHub                                                                                                                                | Google Colab                                                                                                                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 💡 **Redis Agent Memory** - Store and retrieve memories that can be used across conversation sessions. | [![Open In GitHub](https://img.shields.io/badge/View-GitHub-green)](python-recipes/agent-memory/01_intro_to_redis_agent_memory.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/redis-developer/redis-ai-resources/blob/main/python-recipes/agent-memory/01_intro_to_redis_agent_memory.ipynb) |
+
 ### ☕️ Java AI Recipes
 
 A set of Java recipes can be found under [/java-recipes](/java-recipes/README.md).
@@ -250,11 +256,11 @@ Redis integrates with many different players in the AI ecosystem. Here's a curat
 | ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
 | [RedisVL](https://github.com/redis/redis-vl-python) ⭐ 431 \| 🐛 47 \| 🌐 Python \| 📅 2026-10-05                       | A dedicated Python client lib for Redis as a Vector DB                                    |
 | [AWS Bedrock](https://redis.io/docs/latest/integrate/amazon-bedrock/)                                                  | Streamlines GenAI deployment by offering foundational models as a unified API             |
-| [LangChain Python](https://github.com/langchain-ai/langchain) ⭐ 147,493 \| 🐛 641 \| 🌐 Python \| 📅 2026-10-06        | Popular Python client lib for building LLM applications powered by Redis                  |
-| [LangChain JS](https://github.com/langchain-ai/langchainjs) ⭐ 18,248 \| 🐛 660 \| 🌐 TypeScript \| 📅 2026-10-06       | Popular JS client lib for building LLM applications powered by Redis                      |
+| [LangChain Python](https://github.com/langchain-ai/langchain) ⭐ 147,525 \| 🐛 626 \| 🌐 Python \| 📅 2026-10-07        | Popular Python client lib for building LLM applications powered by Redis                  |
+| [LangChain JS](https://github.com/langchain-ai/langchainjs) ⭐ 18,246 \| 🐛 664 \| 🌐 TypeScript \| 📅 2026-10-07       | Popular JS client lib for building LLM applications powered by Redis                      |
 | [LlamaIndex](https://gpt-index.readthedocs.io/en/latest/examples/vector_stores/RedisIndexDemo.html)                    | LlamaIndex Integration for Redis as a vector Database (formerly GPT-index)                |
 | [LiteLLM](https://www.litellm.ai/)                                                                                     | Popular LLM proxy layer to help manage and streamline usage of multiple foundation models |
-| [Semantic Kernel](https://github.com/microsoft/semantic-kernel/tree/main) ⭐ 28,630 \| 🐛 341 \| 🌐 C# \| 📅 2026-10-06 | Popular lib by MSFT to integrate LLMs with plugins                                        |
+| [Semantic Kernel](https://github.com/microsoft/semantic-kernel/tree/main) ⭐ 28,628 \| 🐛 346 \| 🌐 C# \| 📅 2026-10-07 | Popular lib by MSFT to integrate LLMs with plugins                                        |
 | [RelevanceAI](https://relevance.ai/)                                                                                   | Platform to tag, search and analyze unstructured data faster, built on Redis              |
 | [DocArray](https://docs.docarray.org/user_guide/storing/index_redis/)                                                  | DocArray Integration of Redis as a VectorDB by Jina AI                                    |
 
@@ -294,4 +300,4 @@ Please follow the existing style and format of the repository when adding conten
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
