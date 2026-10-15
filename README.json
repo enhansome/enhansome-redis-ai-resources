@@ -397,8 +397,8 @@
             "id": 561914940,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-14T08:04:49Z",
-            "open_issues": 43,
+            "last_commit": "2026-10-14T11:12:06Z",
+            "open_issues": 51,
             "owner": "redis",
             "repo": "redis-vl-python",
             "stars": 431,
@@ -435,11 +435,11 @@
             "id": 552661142,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-14T08:17:28Z",
-            "open_issues": 645,
+            "last_commit": "2026-10-15T08:17:28Z",
+            "open_issues": 647,
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 147820,
+            "stars": 147847,
             "topics": [
               "agents",
               "ai",
@@ -477,11 +477,11 @@
             "id": 598342280,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-14T08:41:47Z",
-            "open_issues": 695,
+            "last_commit": "2026-10-14T23:40:42Z",
+            "open_issues": 703,
             "owner": "langchain-ai",
             "repo": "langchainjs",
-            "stars": 18267,
+            "stars": 18270,
             "topics": []
           },
           "first_seen": "2026-08-28T15:25:04.630Z"
@@ -499,10 +499,10 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-10-14T07:08:28Z",
-            "open_issues": 372,
+            "open_issues": 369,
             "owner": "microsoft",
             "repo": "semantic-kernel",
-            "stars": 28658,
+            "stars": 28661,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -518,7 +518,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T08:45:32.315Z",
+    "last_updated": "2026-10-15T08:20:06.228Z",
     "original_repository_info": {
       "archived": false,
       "description": "✨ A curated list of awesome community resources, integrations, and examples of Redis in the AI ecosystem.",
