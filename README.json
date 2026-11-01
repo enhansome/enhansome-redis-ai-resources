@@ -435,11 +435,11 @@
             "id": 552661142,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-31T08:15:40Z",
-            "open_issues": 706,
+            "last_commit": "2026-11-01T09:10:04Z",
+            "open_issues": 713,
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 148758,
+            "stars": 148803,
             "topics": [
               "agents",
               "ai",
@@ -478,10 +478,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-30T17:35:05Z",
-            "open_issues": 752,
+            "open_issues": 756,
             "owner": "langchain-ai",
             "repo": "langchainjs",
-            "stars": 18307,
+            "stars": 18311,
             "topics": []
           },
           "first_seen": "2026-08-28T15:25:04.630Z"
@@ -499,7 +499,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-10-31T00:48:15Z",
-            "open_issues": 338,
+            "open_issues": 341,
             "owner": "microsoft",
             "repo": "semantic-kernel",
             "stars": 28724,
@@ -518,7 +518,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T09:41:00.727Z",
+    "last_updated": "2026-11-01T10:29:46.405Z",
     "original_repository_info": {
       "archived": false,
       "description": "✨ A curated list of awesome community resources, integrations, and examples of Redis in the AI ecosystem.",
