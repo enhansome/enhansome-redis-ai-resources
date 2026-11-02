@@ -397,8 +397,8 @@
             "id": 561914940,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-30T16:07:48Z",
-            "open_issues": 65,
+            "last_commit": "2026-11-02T10:10:28Z",
+            "open_issues": 66,
             "owner": "redis",
             "repo": "redis-vl-python",
             "stars": 432,
@@ -435,11 +435,11 @@
             "id": 552661142,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-01T09:10:04Z",
-            "open_issues": 713,
+            "last_commit": "2026-11-02T08:20:13Z",
+            "open_issues": 709,
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 148803,
+            "stars": 148875,
             "topics": [
               "agents",
               "ai",
@@ -477,11 +477,11 @@
             "id": 598342280,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-30T17:35:05Z",
-            "open_issues": 756,
+            "last_commit": "2026-11-02T04:55:55Z",
+            "open_issues": 762,
             "owner": "langchain-ai",
             "repo": "langchainjs",
-            "stars": 18311,
+            "stars": 18314,
             "topics": []
           },
           "first_seen": "2026-08-28T15:25:04.630Z"
@@ -498,7 +498,7 @@
             "id": 607289185,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-31T00:48:15Z",
+            "last_commit": "2026-11-02T09:33:37Z",
             "open_issues": 341,
             "owner": "microsoft",
             "repo": "semantic-kernel",
@@ -518,7 +518,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T10:29:46.405Z",
+    "last_updated": "2026-11-02T11:12:46.985Z",
     "original_repository_info": {
       "archived": false,
       "description": "✨ A curated list of awesome community resources, integrations, and examples of Redis in the AI ecosystem.",
