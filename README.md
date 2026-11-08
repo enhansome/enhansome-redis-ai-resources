@@ -250,13 +250,13 @@ Redis integrates with many different players in the AI ecosystem. Here's a curat
 
 | Integration                                                                                                            | Description                                                                               |
 | ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| [RedisVL](https://github.com/redis/redis-vl-python) ⭐ 433 \| 🐛 66 \| 🌐 Python \| 📅 2026-11-06                       | A dedicated Python client lib for Redis as a Vector DB                                    |
+| [RedisVL](https://github.com/redis/redis-vl-python) ⭐ 433 \| 🐛 66 \| 🌐 Python \| 📅 2026-11-07                       | A dedicated Python client lib for Redis as a Vector DB                                    |
 | [AWS Bedrock](https://redis.io/docs/latest/integrate/amazon-bedrock/)                                                  | Streamlines GenAI deployment by offering foundational models as a unified API             |
-| [LangChain Python](https://github.com/langchain-ai/langchain) ⭐ 149,145 \| 🐛 725 \| 🌐 Python \| 📅 2026-11-07        | Popular Python client lib for building LLM applications powered by Redis                  |
-| [LangChain JS](https://github.com/langchain-ai/langchainjs) ⭐ 18,329 \| 🐛 768 \| 🌐 TypeScript \| 📅 2026-11-07       | Popular JS client lib for building LLM applications powered by Redis                      |
+| [LangChain Python](https://github.com/langchain-ai/langchain) ⭐ 149,191 \| 🐛 728 \| 🌐 Python \| 📅 2026-11-08        | Popular Python client lib for building LLM applications powered by Redis                  |
+| [LangChain JS](https://github.com/langchain-ai/langchainjs) ⭐ 18,329 \| 🐛 775 \| 🌐 TypeScript \| 📅 2026-11-07       | Popular JS client lib for building LLM applications powered by Redis                      |
 | [LlamaIndex](https://gpt-index.readthedocs.io/en/latest/examples/vector_stores/RedisIndexDemo.html)                    | LlamaIndex Integration for Redis as a vector Database (formerly GPT-index)                |
 | [LiteLLM](https://www.litellm.ai/)                                                                                     | Popular LLM proxy layer to help manage and streamline usage of multiple foundation models |
-| [Semantic Kernel](https://github.com/microsoft/semantic-kernel/tree/main) ⭐ 28,743 \| 🐛 309 \| 🌐 C# \| 📅 2026-11-07 | Popular lib by MSFT to integrate LLMs with plugins                                        |
+| [Semantic Kernel](https://github.com/microsoft/semantic-kernel/tree/main) ⭐ 28,746 \| 🐛 316 \| 🌐 C# \| 📅 2026-11-07 | Popular lib by MSFT to integrate LLMs with plugins                                        |
 | [RelevanceAI](https://relevance.ai/)                                                                                   | Platform to tag, search and analyze unstructured data faster, built on Redis              |
 | [DocArray](https://docs.docarray.org/user_guide/storing/index_redis/)                                                  | DocArray Integration of Redis as a VectorDB by Jina AI                                    |
 
@@ -296,4 +296,4 @@ Please follow the existing style and format of the repository when adding conten
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
