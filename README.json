@@ -128,7 +128,7 @@
             "open_issues": 7,
             "owner": "redis-developer",
             "repo": "ArXivChatGuru",
-            "stars": 560,
+            "stars": 561,
             "topics": [
               "ai",
               "arxiv",
@@ -397,11 +397,11 @@
             "id": 561914940,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-08T11:09:03Z",
-            "open_issues": 66,
+            "last_commit": "2026-11-10T10:07:18Z",
+            "open_issues": 59,
             "owner": "redis",
             "repo": "redis-vl-python",
-            "stars": 434,
+            "stars": 435,
             "topics": [
               "anthropic",
               "embedding",
@@ -435,11 +435,11 @@
             "id": 552661142,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-09T08:20:32Z",
-            "open_issues": 730,
+            "last_commit": "2026-11-10T08:28:09Z",
+            "open_issues": 739,
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 149255,
+            "stars": 149300,
             "topics": [
               "agents",
               "ai",
@@ -477,11 +477,11 @@
             "id": 598342280,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-07T05:35:19Z",
-            "open_issues": 786,
+            "last_commit": "2026-11-10T01:42:25Z",
+            "open_issues": 785,
             "owner": "langchain-ai",
             "repo": "langchainjs",
-            "stars": 18333,
+            "stars": 18335,
             "topics": []
           },
           "first_seen": "2026-08-28T15:25:04.630Z"
@@ -498,11 +498,11 @@
             "id": 607289185,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-07T00:59:55Z",
-            "open_issues": 329,
+            "last_commit": "2026-11-09T22:13:44Z",
+            "open_issues": 338,
             "owner": "microsoft",
             "repo": "semantic-kernel",
-            "stars": 28747,
+            "stars": 28749,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -518,7 +518,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T11:36:48.622Z",
+    "last_updated": "2026-11-10T11:16:00.532Z",
     "original_repository_info": {
       "archived": false,
       "description": "✨ A curated list of awesome community resources, integrations, and examples of Redis in the AI ecosystem.",
