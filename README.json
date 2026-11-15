@@ -273,7 +273,7 @@
             "id": 1050165983,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-12T12:53:03Z",
+            "last_commit": "2026-11-14T16:09:06Z",
             "open_issues": 1,
             "owner": "redis-developer",
             "repo": "shopping-ai-agent-langgraph-js-demo",
@@ -435,11 +435,11 @@
             "id": 552661142,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-14T08:44:18Z",
-            "open_issues": 742,
+            "last_commit": "2026-11-15T09:02:02Z",
+            "open_issues": 743,
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 149488,
+            "stars": 149542,
             "topics": [
               "agents",
               "ai",
@@ -502,7 +502,7 @@
             "open_issues": 345,
             "owner": "microsoft",
             "repo": "semantic-kernel",
-            "stars": 28764,
+            "stars": 28770,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -518,7 +518,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T10:29:25.957Z",
+    "last_updated": "2026-11-15T10:57:32.460Z",
     "original_repository_info": {
       "archived": false,
       "description": "✨ A curated list of awesome community resources, integrations, and examples of Redis in the AI ecosystem.",
@@ -530,7 +530,7 @@
       "open_issues": 15,
       "owner": "redis-developer",
       "repo": "redis-ai-resources",
-      "stars": 499,
+      "stars": 498,
       "topics": [
         "ai",
         "awesome-list",
