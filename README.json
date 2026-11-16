@@ -397,8 +397,8 @@
             "id": 561914940,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-13T15:30:23Z",
-            "open_issues": 69,
+            "last_commit": "2026-11-16T10:26:02Z",
+            "open_issues": 67,
             "owner": "redis",
             "repo": "redis-vl-python",
             "stars": 437,
@@ -435,11 +435,11 @@
             "id": 552661142,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-15T09:02:02Z",
-            "open_issues": 743,
+            "last_commit": "2026-11-16T09:17:17Z",
+            "open_issues": 745,
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 149542,
+            "stars": 149624,
             "topics": [
               "agents",
               "ai",
@@ -478,10 +478,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-13T18:26:23Z",
-            "open_issues": 796,
+            "open_issues": 799,
             "owner": "langchain-ai",
             "repo": "langchainjs",
-            "stars": 18344,
+            "stars": 18348,
             "topics": []
           },
           "first_seen": "2026-08-28T15:25:04.630Z"
@@ -499,10 +499,10 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-11-13T16:16:44Z",
-            "open_issues": 345,
+            "open_issues": 346,
             "owner": "microsoft",
             "repo": "semantic-kernel",
-            "stars": 28770,
+            "stars": 28779,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -518,7 +518,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T10:57:32.460Z",
+    "last_updated": "2026-11-16T11:24:45.118Z",
     "original_repository_info": {
       "archived": false,
       "description": "✨ A curated list of awesome community resources, integrations, and examples of Redis in the AI ecosystem.",
