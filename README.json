@@ -128,7 +128,7 @@
             "open_issues": 7,
             "owner": "redis-developer",
             "repo": "ArXivChatGuru",
-            "stars": 561,
+            "stars": 560,
             "topics": [
               "ai",
               "arxiv",
@@ -397,8 +397,8 @@
             "id": 561914940,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-16T10:26:02Z",
-            "open_issues": 67,
+            "last_commit": "2026-11-17T08:45:42Z",
+            "open_issues": 63,
             "owner": "redis",
             "repo": "redis-vl-python",
             "stars": 437,
@@ -435,11 +435,11 @@
             "id": 552661142,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-16T09:17:17Z",
-            "open_issues": 745,
+            "last_commit": "2026-11-17T08:17:38Z",
+            "open_issues": 759,
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 149624,
+            "stars": 149760,
             "topics": [
               "agents",
               "ai",
@@ -477,11 +477,11 @@
             "id": 598342280,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-13T18:26:23Z",
+            "last_commit": "2026-11-17T06:47:03Z",
             "open_issues": 799,
             "owner": "langchain-ai",
             "repo": "langchainjs",
-            "stars": 18348,
+            "stars": 18350,
             "topics": []
           },
           "first_seen": "2026-08-28T15:25:04.630Z"
@@ -498,11 +498,11 @@
             "id": 607289185,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-13T16:16:44Z",
-            "open_issues": 346,
+            "last_commit": "2026-11-16T22:28:41Z",
+            "open_issues": 351,
             "owner": "microsoft",
             "repo": "semantic-kernel",
-            "stars": 28779,
+            "stars": 28784,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -518,7 +518,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T11:24:45.118Z",
+    "last_updated": "2026-11-17T11:55:16.070Z",
     "original_repository_info": {
       "archived": false,
       "description": "✨ A curated list of awesome community resources, integrations, and examples of Redis in the AI ecosystem.",
